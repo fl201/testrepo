@@ -1,0 +1,47 @@
+Well, everyone always talks about security
+and worries about it; but really, very few organizations
+have really good security programs or processes in place,
+so be prepared to face some fear, uncertainty, and doubt
+when talking to clients around security.
+And, you know, know that it's gonna be front-of-mind
+for them, but also know that in a lot of cases,
+they don't have a way to deal with that, organizationally.
+And, generally, I like to acknowledge the concerns up front
+and be ready with a process or a framework.
+And, the Cloud Adoption Framework is a really useful tool
+to start because it has a specific area around security.
+And, I found that if you make it clear
+that security is a prominent component,
+then the trust level increases with that client.
+And, I like to use assessments and checklists
+to help baseline current security practices
+and compare and contrast what those might look like
+in future practices when assets are deployed on cloud.
+It's a very non-confrontational way
+to evaluate the current state of security practices,
+and, maybe, objectively point out where there are some gaps
+that may actually be better when organizations move
+to the cloud.
+And, in fact,
+a lot of times organizations find that migrating
+to the cloud creates even more security
+in their processes and their assets because there's
+greater transparency and visibility that's not always
+a feature in legacy installations.
+I always speak in terms of levels of risk
+along a continuum versus "Is it secure or not?"
+And, this turns the conversation
+into a much more productive trade-off conversation
+versus a binary yes/no.
+Any chief security officer is going to understand that
+there's always a trade off,
+and really they're in the business of managing risk.
+And so, if you can speak in those terms,
+you're gonna get a lot more mileage.
+And because the area of security on the cloud is something
+that I think needs many more skilled practitioners,
+you might want to consider
+a security specialty certification
+like the AWS Certified Security Specialty
+or maybe another security minded certification
+like the CISSP.
